@@ -20,8 +20,8 @@ import os
 # One rant, one annoyance, three beats: the false alarm, the "rescue",
 # the punchline. No throat-clearing, no setup longer than it needs.
 RANT = (
-    "Self-checkout just screamed 'UNEXPECTED ITEM IN THE BAGGING AREA' at a "
-    "bag of apples I bought in this store ten seconds ago. Then it froze, "
+    "Self-checkout just screamed 'UNEXPECTED ITEM IN THE BAGGING AREA' at "
+    "apples I bought in this very store ten seconds ago. Then it froze, "
     "summoned a teenager, who pressed one button and strolled off like a "
     "surgeon after a miracle. I have now spent longer checking out than the "
     "farmer spent growing the apples \u2014 and it still charged me for the bag."

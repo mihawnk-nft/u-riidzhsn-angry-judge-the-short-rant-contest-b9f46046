@@ -12,7 +12,7 @@ Entry for the make.fun bounty [Angry Judge: The Short Rant Contest](https://make
 
 The rant:
 
-> Self-checkout just screamed 'UNEXPECTED ITEM IN THE BAGGING AREA' at a bag of apples I bought in this store ten seconds ago. Then it froze, summoned a teenager, who pressed one button and strolled off like a surgeon after a miracle. I have now spent longer checking out than the farmer spent growing the apples — and it still charged me for the bag.
+> Self-checkout just screamed 'UNEXPECTED ITEM IN THE BAGGING AREA' at apples I bought in this very store ten seconds ago. Then it froze, summoned a teenager, who pressed one button and strolled off like a surgeon after a miracle. I have now spent longer checking out than the farmer spent growing the apples — and it still charged me for the bag.
 
 Why this rant: it is a genuine rant about one specific, concrete annoyance — the self-checkout machine (criterion 1 and 3). The laugh is real, not effortful: the teenager strolling off "like a surgeon after a miracle" and the farmer line land somewhere the reader did not see coming (criterion 2). Every sentence earns its place, no throat-clearing (criterion 4), and the self-checkout angle is fresher than the obvious printer or Monday-morning rant (criterion 5).
 
